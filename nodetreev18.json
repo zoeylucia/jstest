@@ -1,0 +1,397 @@
+{
+	 "name": "HCP",
+	  "children": [
+	  		{
+              "name": "",
+              "children": [
+             {
+              "name": "Understanding ability\r\n理解能力",
+              "value": 0
+            },
+            {
+              "name": "Ability to feel\r\n感受能力",
+              "value": 0
+            },
+            {
+              "name": "Predictive power\r\n预见能力",
+              "value": 0
+            },
+            {
+              "name": "Creative ability\r\n创造能力",
+              "value": 0
+            },
+            {
+              "name": "Observe ability\r\n观察能力",
+              "value": 0
+            },
+            {
+              "name": "Memory ability\r\n记忆能力",
+              "value": 0
+            },
+            {
+              "name": "Error correcting capability\r\n纠错能力",
+              "value": 0
+            },
+            {
+              "name": "Communication Skills\r\n表达能力",
+              "value": 0
+            },
+            {
+              "name": "Numeracy skills\r\n计算能力",
+              "value": 0
+            },{
+              "name": "Spatial ability\r\n空间能力",
+              "value": 0
+            },
+            {
+              "name": "Logical ability\r\n逻辑能力",
+              "value": 0
+            },
+            {
+              "name": "Musical ability\r\n音乐能力",
+              "value": 0
+            },
+            {
+              "name": "Sports ability\r\n运动能力",
+              "value": 0
+            },
+            {
+              "name": "Language ability\r\n语言能力",
+              "value": 0
+            },
+            {
+              "name": "Introspective ability\r\n内省能力",
+              "value": 0
+            },
+            {
+              "name": "Organizing ability\r\n整理能力",
+              "value": 0
+            },
+            {
+              "name": "Awareness ability\r\n觉察能力",
+              "value": 0
+            },
+            {
+              "name": "Problem-solving ability\r\n解决能力",
+              "value": 0
+            },
+            {
+              "name": "Faculty of abstraction\r\n抽象能力",
+              "value": 0
+            },
+            {
+              "name": "Association ability\r\n联想能力",
+              "value": 0
+            },
+            {
+              "name": "Sensory ability\r\n感官能力",
+              "value": 0
+            },
+            {
+              "name": "Switching ability\r\n切换能力",
+              "value": 0
+            },
+            {
+              "name": "Self-control ability\r\n自控能力",
+              "value": 0
+            },
+            {
+              "name": "Compassion ability\r\n同理能力",
+              "value": 0
+            },
+            {
+              "name": "Learning ability\r\n学习能力",
+              "value": 0
+            },
+            {
+              "name": "Ability to focus\r\n专注能力",
+              "value": 0
+            },
+            {
+              "name": "Planning ability\r\n计划能力",
+              "value": 0
+            }
+              ]
+            },
+            {
+              "name": "",
+              "children": [
+             {
+              "name": "Happiness satisfaction index\r\n幸福满足指数",
+              "value": 0
+            },
+            {
+              "name": "Personal development ability\r\n个人发展能力",
+              "value": 0
+            },
+            {
+              "name": "Extended natural life\r\n延长自然寿命",
+              "value": 0
+            }
+              ]
+            },
+            {
+              "name": "",
+              "children":[
+              	
+            {
+              "name": "Material utilization of energy\r\n能源物资利用率",
+              "value": 0
+            },
+            {
+              "name": "Enviromental protection factor\r\n环境保护指数",
+              "value": 0
+            },
+            {
+              "name": "Ecological restoration level\r\n生态修复水平",
+              "value": 0
+            },
+            {
+              "name": "Oneness consciousness index\r\n一体意识指数",
+              "value": 0
+            },
+            {
+              "name": "Sustainable energy index\r\n可持续能源指数",
+              "value": 0
+            },
+            {
+              "name": "Climate change control index\r\n气候变化控制指数",
+              "value": 0
+            },
+            {
+              "name": "Air pollution control index\r\n空气污染控制指数",
+              "value": 0
+            },
+            {
+              "name": "Natural ecological cycle index\r\n自然生态循环指数",
+              "value": 0
+            },
+            {
+              "name": "Soil and water pollution purification index\r\n水土污染净化指数",
+              "value": 0
+            },
+            {
+              "name": "Marine resource protection index\r\n海洋资源保护指数",
+              "value": 0
+            },
+            {
+              "name": "Terrestrial ecosystem maintenance index\r\n陆地生态维护指数",
+              "value": 0
+            },
+            {
+              "name": "Endangered species protection index\r\n濒临动物保护指数",
+              "value": 0
+            },
+            {
+              "name": "Biodiversity Index\r\n生物多样性指数",
+              "value": 0
+            }
+              ]
+            },
+            {
+              "name": "",
+              "children": [
+              {
+              "name": "Close relationship index\r\n亲密关系指数",
+                "value": 0
+            },
+             {
+              "name": "Parent-child relationship index\r\n亲子关系指数",
+              "value": 0
+            },
+            {
+              "name": "Two generations relationship index\r\n两代关系指数",
+              "value": 0
+            },
+            {
+              "name": "Kinship relationship index\r\n亲属关系指数",
+              "value": 0
+            },
+            {
+              "name": "Friendship index\r\n朋友关系指数",
+              "value": 0
+            },
+            {
+              "name": "Community relations index\r\n社群关系指数",
+              "value": 0
+            },
+            {
+              "name": "Workplace stress index\r\n职场压力指数",
+              "value": 0
+            },
+            {
+              "name": "Employment relationship index\r\n雇佣关系指数",
+              "value": 0
+            },
+            {
+              "name": "Workplace relationship index\r\n职场关系指数",
+              "value": 0
+            },
+            {
+              "name": "Business relationship index\r\n事业关系指数",
+              "value": 0
+            }
+              ]
+            },
+            {
+              "name": "",
+              "children": [
+            {
+              "name": "Social education cost\r\n社会教育成本",
+              "value": 0
+            },
+            {
+              "name": "Social medical cost\r\n社会医疗成本",
+              "value": 0
+            },
+            {
+              "name": "Infrastructure cost\r\n基础设施成本",
+              "value": 0
+            },
+            {
+              "name": "Social management cost\r\n社会管理成本",
+              "value": 0
+            },
+            {
+              "name": "Social security cost\r\n社会治安成本",
+              "value": 0
+            },
+            {
+              "name": "Social consumption cost\r\n社会消费成本",
+              "value": 0
+            },
+            {
+              "name": "Utilization rate of consumption resources\r\n消费资源利用率",
+              "value": 0
+            },
+            {
+              "name": "Educational equity index\r\n教育公平指数",
+              "value": 0
+            },
+            {
+              "name": "Gender equality index\r\n性别平等指数",
+              "value": 0
+            },
+            {
+              "name": "Violent crime index\r\n暴力犯罪指数",
+              "value": 0
+            },
+            {
+              "name": "Suicide rate\r\n自杀人口比率",
+              "value": 0
+            },
+            {
+              "name": "Domestic violence rate\r\n家庭暴力比率",
+              "value": 0
+            },
+            {
+              "name": "Ratio of runaway from home\r\n离家出走比率",
+              "value": 0
+            },
+            {
+              "name": "Divorce rate\r\n离婚人口比率",
+              "value": 0
+            },
+            {
+              "name": "Health and longevity index\r\n健康长寿指数",
+              "value": 0
+            },
+            {
+              "name": "Single parent family ratio\r\n单亲家庭比率",
+              "value": 0
+            },
+            {
+              "name": "Learning burden index\r\n学习负担指数",
+              "value": 0
+            },
+            {
+              "name": "Internet addiction rate\r\n网瘾人口比率",
+              "value": 0
+            },
+            {
+              "name": "Prison labor population\r\n监狱劳教人口",
+              "value": 0
+            },
+            {
+              "name": "Drug and drug trafficking population\r\n吸毒贩毒人口",
+              "value": 0
+            },
+            {
+              "name": "Ratio of empty nest elders\r\n空巢老人比率",
+              "value": 0
+            },
+            {
+              "name": "Proportion of left-behind children\r\n留守儿童比率",
+              "value": 0
+            },
+            {
+              "name": "Medical expense ratio\r\n医疗费用比率",
+              "value": 0
+            },
+            {
+              "name": "Mental illness rate\r\n精神疾病比率",
+              "value": 0
+            },
+            {
+              "name": "Honest transaction ratio\r\n诚信交易比率",
+              "value": 0
+            }
+
+              ]
+            },
+            {
+              "name": "",
+              "children":[
+             {
+              "name": "National political cost\r\n国家政治成本",
+              "value": 0
+            },
+            {
+              "name": "Corruption rate\r\n贪污腐败比率",
+              "value": 0
+            },
+            {
+              "name": "National military cost\r\n国家军事成本",
+              "value": 0
+            },
+            {
+              "name": "Cost of international disputes\r\n国际争端成本",
+              "value": 0
+            },
+            {
+              "name": "Cost of sustainability\r\n可持续性发展成本",
+              "value": 0
+            },
+            {
+              "name": "Sanitation cost\r\n环境卫生成本",
+              "value": 0
+            },
+            {
+              "name": "Poor and hungry population\r\n贫困饥饿人口",
+              "value": 0
+            },
+            {
+              "name": "Local friction dispute\r\n局部摩擦争端",
+              "value": 0
+            },
+            {
+              "name": "Terrorism rate\r\n恐怖事件比率",
+              "value": 0
+            },
+            {
+              "name": "Discrimination incident rate\r\n歧视事件比率",
+              "value": 0
+            },
+            {
+              "name": "Global integration costs\r\n全球一体化成本",
+              "value": 0
+            },
+            {
+              "name": "Soft power index\r\n软实力指数",
+              "value": 0
+            }
+              ] 
+            }
+            
+	  ]
+}
